@@ -1,7 +1,6 @@
 <h1 align="center">Hi!! i'm Eduardo 👋</h1>
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-souza-ilha-a0455a186/)
+<a ref="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"><img src="https://www.linkedin.com/in/eduardo-de-souza-ilha-a0455a186/"/><a>
 
 <!--
 **EduardodeSouzaIlha/EduardodeSouzaIlha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
