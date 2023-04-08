@@ -9,4 +9,4 @@
 <p><b>My Knowledge</b></p>
 
 <p><b>How finding me:</b></p>
-<a><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="80px" width="80px"></a>
+<a href="https://www.linkedin.com/in/eduardo-de-souza-ilha-a0455a186/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="80px" width="80px"></a>
