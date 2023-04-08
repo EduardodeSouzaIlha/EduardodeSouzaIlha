@@ -9,4 +9,4 @@
 <p><b>My Knowledge</b></p>
 
 <p><b>How finding me:</b></p>
-<a><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="10px" width="10px"></a>
+<a><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="80px" width="80px"></a>
