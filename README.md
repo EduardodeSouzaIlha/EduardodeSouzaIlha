@@ -7,9 +7,10 @@
   <li>NODE JS</li>
 </ul>
 <p><b>My Knowledge</b></p>
-<a href="https://react.dev" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/760/760457.png"  height="60px" width="60px" display="inline"></a>
+<a href="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" target="_blank"><img src="https://developer.mozilla.org/en/docs/Web/JavaScript"  height="60px" width="60px" display="inline"></a>
 <a href="https://react.dev" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/760/760457.png"  height="60px" width="60px" display="inline"></a>
 <div>
+<a href="https://www.docker.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"  height="60px" width="60px" display="inline"></a>
 <p><b>How finding me:</b></p>
 <a href="https://www.linkedin.com/in/eduardo-de-souza-ilha-a0455a186/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="80px" width="80px"></a>
 </div>
