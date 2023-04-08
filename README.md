@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi!! i'm Eduardo 👋</h1>
+<h1 style="align-text: center">Hi!! i'm Eduardo 👋</h1>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-de-souza-ilha-a0455a186/)
