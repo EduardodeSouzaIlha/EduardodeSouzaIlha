@@ -7,7 +7,7 @@
   <li>NODE JS</li>
 </ul>
 <p><b>My Knowledge</b></p>
-<a href="https://www.linkedin.com/in/eduardo-de-souza-ilha-a0455a186/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="border: solid 3px white;" height="80px" width="80px"></a>
+<a href="https://react.dev" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/760/760457.png"  height="80px" width="80px"></a>
 
 <p><b>How finding me:</b></p>
 <a href="https://www.linkedin.com/in/eduardo-de-souza-ilha-a0455a186/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="80px" width="80px"></a>
