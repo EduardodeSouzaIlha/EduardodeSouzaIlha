@@ -11,7 +11,7 @@
 <a href="https://react.dev" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/760/760457.png"  height="60px" width="60px" display="inline-block"></a>
 <a href="https://jquery.com"><img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" height="80px" width="80px" display="inline"></a><br/>
 <a href="https://www.docker.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"  height="60px" width="60px"></a><br/>
-<a href="https://git-scm.com"><img src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png" height="80px" width="80px"></a><br/>
+<a href="https://git-scm.com"><img src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png" height="70px" width="70px"></a><br/>
 <a href="https://www.cprogramming.com"><img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" height="70px" width="70px"></a><br/>
 
 <p><b>How finding me:</b></p>
