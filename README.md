@@ -7,7 +7,7 @@
   <li>NODE JS</li>
 </ul>
 <p style="font-size: 40px;"><b>My Knowledge</b></p>
-<h2>get<img src="https://cdn-icons-png.flaticon.com/512/5521/5521880.png" height="60px" width="60px"/>
+<h2>getAllJs<img src="https://cdn-icons-png.flaticon.com/512/5521/5521880.png" height="60px" width="60px"/>
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"  height="60px" width="60px" display="inline"></a>
 <a href="https://react.dev" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/760/760457.png"  height="60px" width="60px" display="inline-block"></a>
 <a href="https://jquery.com"><img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" height="80px" width="80px" display="inline"></a>
