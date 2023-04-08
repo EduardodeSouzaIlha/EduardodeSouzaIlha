@@ -1,5 +1,4 @@
 <h1 align="center">Hi!! i'm Eduardo 👋</h1>
-<hr/>
 <p><i>I'm a student of software development at IFRS </i></p>
 
 <!--
