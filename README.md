@@ -3,7 +3,6 @@
 <p>Actually i'm learning:<p/>
 <ul>
   <li>JAVA</li>
-  <li>SQL</li>
   <li>NODE JS</li>
 </ul> 
 
