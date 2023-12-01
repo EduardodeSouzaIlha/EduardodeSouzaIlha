@@ -1,9 +1,13 @@
 <h1 align="center">Hi!! Eduardo here 👋😄🌱</h1>
 <h2><i>I'm a software development student at IFRS </i></h2>
-<p>Actually i'm learning:<p/>
+<p>Technologies that i often use:<p/>
 <ul>
-  <li>JAVA</li>
-  <li>NODE JS</li>
+  <li>PHP</li>
+  <li>JS</li>
+  <li>React Js</li>
+  <li>SQL</li>
+  <li>Java / Spring Boot</li>
+  <li>Docker</li>
 </ul> 
 
 # 💻 Tech Stack:
