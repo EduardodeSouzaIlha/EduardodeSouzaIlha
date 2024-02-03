@@ -2,11 +2,10 @@
 <h2><i>I'm a software development student at IFRS </i></h2>
 <p>Technologies that i often use:<p/>
 <ul>
-  <li>PHP</li>
-  <li>JS</li>
-  <li>React Js</li>
+  <li>PHP - Enyalius / Laravel</li>
+  <li>JS - React Js</li>
   <li>SQL</li>
-  <li>Java / Spring Boot</li>
+  <li>Java - Spring Boot</li>
   <li>Docker</li>
 </ul> 
 
