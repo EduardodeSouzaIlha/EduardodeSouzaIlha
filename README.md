@@ -1,5 +1,5 @@
 <h1 align="center">Hi!! Eduardo here 👋😄🌱</h1>
-<h2><i>I'm a software development engineering </i></h2>
+<h2><i>I'm a software engineering </i></h2>
 
 
 ### ✍️ Random Dev Quote
