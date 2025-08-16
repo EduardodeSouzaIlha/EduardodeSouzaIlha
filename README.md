@@ -14,7 +14,7 @@ Eduardo de Souza Ilha Desenvolvimento de Software LDTA
 
 **Script:** .sh & .C
 
-**Concepts and Knoledges:** Clean Architecture, Domain-Driven Design (DDD), Hexagonal Architecture, Testing Strategies (TDD), Clean Code, Scrum, Kamban...
+**Concepts and Knowledge:** Clean Architecture, Domain-Driven Design (DDD), Hexagonal Architecture, Testing Strategies (TDD), Clean Code, Scrum, Kamban...
 
 
 ## 🔗 Links
